@@ -1,0 +1,9 @@
+version: '3'
+
+services:
+  apacheitbaby:
+    build: ./mangoes
+    container_name: apachit
+    ports:
+      - "8000:8000"
+    network_mode: bridge
