@@ -8,6 +8,6 @@ services:
         - "80:80"
       stdin_open: true 
       tty: true
-    network_mode: bridge
+      network_mode: bridge
 
     
