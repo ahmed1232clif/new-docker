@@ -3,7 +3,7 @@ version: '3'
 services:
   apacheitbaby:
     build: ./mangoes
-    container_name: apachit
+    container_name: apacheitbaby
     ports:
       - "80:80"
     stdin_open: true 
