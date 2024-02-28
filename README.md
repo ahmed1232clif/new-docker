@@ -16,9 +16,9 @@ After installing docker now you can clone this repo
 
 * if you dont have git then - yum install git -y
 * git clone https://github.com/ahmed1232clif/new-docker
-* cd <any of the directory>
+* cd (any of the directory)
 * docker-compose up -d
 
-  and you are good to go
+And you are good to go
 
 do let me know if anything 
