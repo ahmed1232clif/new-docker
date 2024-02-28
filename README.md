@@ -12,7 +12,7 @@ If you are using Amazon linux then you may first install docker by following com
 * systemctl start docker
 
   After installing docker now you can clone this repo
-------------------------------------------------------
+  ------------------------------------------------------
 
 * if you dont have git then - yum install git -y
 * git clone https://github.com/ahmed1232clif/new-docker
